@@ -1,5 +1,4 @@
 # Tableau_Projects
-# Data Visualizations using Tableau
 ## i) Covid-19 India Tracker
 
 Data Visualizations using Tableau
