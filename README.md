@@ -3,6 +3,7 @@
 Tableau Profile Link: https://public.tableau.com/profile/dhiraj8579#!/
 
 # i) Covid-19 India Tracker
+Workbook Link: https://public.tableau.com/profile/dhiraj8579#!/vizhome/Covid-19LiveTracker/Dashboard1
 
 ## 1) Vulnerability Summary
 
@@ -21,6 +22,7 @@ Tableau Profile Link: https://public.tableau.com/profile/dhiraj8579#!/
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/191468544@N08/50713267807/in/dateposted-public/" title="ct4"><img src="https://live.staticflickr.com/65535/50713267807_3c43d78543_o.png" width="1009" height="391" alt="ct4"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # ii) Netflix Content Analysis
+Workbook Link: https://public.tableau.com/profile/dhiraj8579#!/vizhome/NetflixAnalysis_15931500437890/Summary
 
 ## 1) Summary & Navigation Window
 
@@ -35,12 +37,14 @@ Tableau Profile Link: https://public.tableau.com/profile/dhiraj8579#!/
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/191468544@N08/50712449163/in/dateposted-public/" title="na3"><img src="https://live.staticflickr.com/65535/50712449163_1b4b049500_o.png" width="878" height="627" alt="na3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # iii) Spotify India (Top 200) Analysis (Mini-music player)
+Workbook Link: https://public.tableau.com/profile/dhiraj8579#!/vizhome/SpotifyAnalysis_15935325980560/SpotifyAnalysis
 
 ## Most Popular Artist's,Total Stream's details by Songs along with Music player
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/191468544@N08/50713267537/in/dateposted-public/" title="si"><img src="https://live.staticflickr.com/65535/50713267537_c129d9535d_o.png" width="731" height="603" alt="si"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # iv) US Superstore Analysis
+Workbook Link: https://public.tableau.com/profile/dhiraj8579#!/vizhome/USSuperstoreAnalysis/Dashboard1
 
 ## 1) Overall Summary,Sales by Region,Financial Statement & Quantity Ordered detail's
 
@@ -51,6 +55,7 @@ Tableau Profile Link: https://public.tableau.com/profile/dhiraj8579#!/
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/191468544@N08/50713267402/in/dateposted-public/" title="ss2"><img src="https://live.staticflickr.com/65535/50713267402_171b2b55c3_o.png" width="988" height="601" alt="ss2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # v) Who's the best? Messi vs Ronaldo
+Workbook Link: https://public.tableau.com/profile/dhiraj8579#!/vizhome/messivronaldo/Summary
 
 ## 1) Overall Summary 
 
@@ -65,6 +70,7 @@ Tableau Profile Link: https://public.tableau.com/profile/dhiraj8579#!/
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/191468544@N08/50713267582/in/dateposted-public/" title="rm1"><img src="https://live.staticflickr.com/65535/50713267582_dcc8537842_o.png" width="731" height="620" alt="rm1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # vi) Analysing the Top Startup's
+Workbook Link: https://public.tableau.com/profile/dhiraj8579#!/vizhome/AnalysingthetopStartups/Dashboard1
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/191468544@N08/50713185456/in/dateposted-public/" title="sq"><img src="https://live.staticflickr.com/65535/50713185456_42f25c46b8_o.png" width="718" height="562" alt="sq"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
