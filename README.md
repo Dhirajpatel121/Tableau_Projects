@@ -36,9 +36,37 @@ Tableau Profile Link: https://public.tableau.com/profile/dhiraj8579#!/
 
 # iii) Spotify India (Top 200) Analysis (Mini-music player)
 
-## Most Popular Artist's,Total Stream's by Songs along with music player
+## Most Popular Artist's,Total Stream's details by Songs along with Music player
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/191468544@N08/50713267537/in/dateposted-public/" title="si"><img src="https://live.staticflickr.com/65535/50713267537_c129d9535d_o.png" width="731" height="603" alt="si"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+# iv) US Superstore Analysis
+
+## 1) Overall Summary,Sales by Region,Financial Statement & Quantity Ordered detail's
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/191468544@N08/50713185406/in/dateposted-public/" title="ss1"><img src="https://live.staticflickr.com/65535/50713185406_784a29343e_o.png" width="987" height="617" alt="ss1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## 2) Ship mode,Customer segmentation & Order priority detail's
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/191468544@N08/50713267402/in/dateposted-public/" title="ss2"><img src="https://live.staticflickr.com/65535/50713267402_171b2b55c3_o.png" width="988" height="601" alt="ss2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+# v) Who's the best? Messi vs Ronaldo
+
+## 1) Overall Summary 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/191468544@N08/50713267582/in/dateposted-public/" title="rm1"><img src="https://live.staticflickr.com/65535/50713267582_dcc8537842_o.png" width="731" height="620" alt="rm1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## 2) Champion's League Comparison
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/191468544@N08/50713267542/in/dateposted-public/" title="rm3"><img src="https://live.staticflickr.com/65535/50713267542_2533d7c367_o.png" width="729" height="616" alt="rm3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## 3) LaLiga Comparison
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/191468544@N08/50713267582/in/dateposted-public/" title="rm1"><img src="https://live.staticflickr.com/65535/50713267582_dcc8537842_o.png" width="731" height="620" alt="rm1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+# vi) Analysing the Top Startup's
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/191468544@N08/50713185456/in/dateposted-public/" title="sq"><img src="https://live.staticflickr.com/65535/50713185456_42f25c46b8_o.png" width="718" height="562" alt="sq"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 
