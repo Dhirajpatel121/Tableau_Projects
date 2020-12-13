@@ -20,3 +20,25 @@ Tableau Profile Link: https://public.tableau.com/profile/dhiraj8579#!/
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/191468544@N08/50713267807/in/dateposted-public/" title="ct4"><img src="https://live.staticflickr.com/65535/50713267807_3c43d78543_o.png" width="1009" height="391" alt="ct4"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+# ii) Netflix Content Analysis
+
+## 1) Summary & Navigation Window
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/191468544@N08/50712449218/in/dateposted-public/" title="na1"><img src="https://live.staticflickr.com/65535/50712449218_f97dfcedd8_o.png" width="880" height="624" alt="na1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## 2) TV Show's Analysis
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/191468544@N08/50713267647/in/dateposted-public/" title="na2"><img src="https://live.staticflickr.com/65535/50713267647_033907f6a7_o.png" width="878" height="618" alt="na2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## 3) Movies Analysis
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/191468544@N08/50712449163/in/dateposted-public/" title="na3"><img src="https://live.staticflickr.com/65535/50712449163_1b4b049500_o.png" width="878" height="627" alt="na3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+# iii) Spotify India (Top 200) Analysis (Mini-music player)
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/191468544@N08/50713267537/in/dateposted-public/" title="si"><img src="https://live.staticflickr.com/65535/50713267537_c129d9535d_o.png" width="731" height="603" alt="si"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+
+
+
