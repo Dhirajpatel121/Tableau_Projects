@@ -1,6 +1,6 @@
 # Tableau_Projects
-
-# i) Covid-19 India Tracker
+# Data Visualizations using Tableau
+## i) Covid-19 India Tracker
 
 Data Visualizations using Tableau
 1) Vulnerability Summary
